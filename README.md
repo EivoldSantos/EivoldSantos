@@ -39,11 +39,11 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 
 ## 📂 Projetos em Destaque
 
-### 📊 Dashboard Mobile de Analytics
+### 📊 ERP_Mobile
 - **Tecnologias**: React Native, Expo, Firebase, TypeScript
-- **Descrição**: Aplicativo mobile para visualização de métricas de negócio em tempo real.
+- **Descrição**: Aplicativo mobile para controle e visualização de métricas de negócio em tempo real.
 
-### 🖥️ Ferramenta Desktop de Análise
+### 🖥️ Plataforma Para Análise Preditiva em Tempo Real
 - **Tecnologias**: Python, Express.js, Prisma
 - **Descrição**: Aplicação desktop para análise avançada de datasets complexos.
 
@@ -56,7 +56,7 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 ## 📫 Vamos Conectar!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/EivoldSantos/" target="_blank">
+  <a href="https://www.linkedin.com/in/eivold/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/EivoldSantos" target="_blank">
