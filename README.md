@@ -29,9 +29,9 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/Eivold-Santos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eivold-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eivold-Santos&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/EivoldSantos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EivoldSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivoldSantos&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
