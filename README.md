@@ -10,7 +10,7 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,prisma,react,express,cpp,firebase,jest,git,vscode,md,json" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,prisma,react,prisma,cpp,firebase,jest,git,vscode,md,json" />
   </a>
 </p>
 
@@ -40,16 +40,16 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 ## 📂 Projetos em Destaque
 
 ### 📊 ERP_Mobile
-- **Tecnologias**: React Native, Expo, Firebase, TypeScript
+- **Tecnologias**: React Native, Expo, Firebase, TypeScript, Prisma
 - **Descrição**: Aplicativo mobile para controle e visualização de métricas de negócio em tempo real.
 
 ### 🖥️ Plataforma Para Análise Preditiva em Tempo Real
-- **Tecnologias**: Python, Express.js, Prisma
-- **Descrição**: Aplicação desktop para análise avançada de datasets complexos.
+- **Tecnologias**: Python, Streamlit, Pandas, Prophet
+- **Descrição**: Aplicação desktop para análise avançada de dados complexos gerados continuamente para previsões de futuros problemas.
 
-### 🔄 API de Processamento de Dados
-- **Tecnologias**: Express.js, Firebase, Jest
-- **Descrição**: API RESTful para processamento e transformação de dados.
+### 🔄 Plataforma Para Análise da Bolsa Brasileira
+- **Tecnologias**: Python, Streamlit, Pandas, API Restful
+- **Descrição**: Aplicação desktop para análise avançada de dados complexos para tomada de decisões financeiras complexas.
 
 ---
 
