@@ -1,8 +1,6 @@
 # 👋 Olá! Meu nome é Eivold Santos
 
-## 🚀 Analista de Dados | Desenvolvedor Mobile & Desktop
-
-Sou um analista de dados apaixonado por transformar dados em insights acionáveis através de aplicações mobile e desktop inovadoras. Especializo-me em criar soluções completas que conectam análise de dados com experiências de usuário intuitivas.
+## 🚀 Desenvolvedor Mobile & Desktop
 
 ---
 
