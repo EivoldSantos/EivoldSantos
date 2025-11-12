@@ -10,7 +10,7 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,prisma,react,prisma,cpp,firebase,jest,git,vscode,md,json" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,prisma,react,cpp,firebase,jest,git,vscode,md,json" />
   </a>
 </p>
 
