@@ -1,4 +1,4 @@
-# Full Stack Developer & Technical Leader
+# Full Stack Mobile Developer
 
 **Building scalable systems that drive measurable business impact through strategic technical architecture and data-driven design.**
 
