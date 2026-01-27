@@ -29,7 +29,7 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 
 <p align="center">
   <a href="https://github.com/EivoldSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EivoldSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&v=2"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EivoldSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&v=3"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivoldSantos&layout=compact&langs_count=7&theme=dracula&locale=pt-br&v=2"/>
   </a>
 </p>
