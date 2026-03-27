@@ -5,7 +5,7 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 ---
 
 ## Tecnologias & Ferramentas
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,python,prisma,react,firebase,jest,git,androidstudio,postman,nextjs" />
   </a>
