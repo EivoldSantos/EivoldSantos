@@ -1,13 +1,10 @@
 # Olá! Meu nome é Eivold Santos
-
 ## Analista de Dados | Desenvolvedor Mobile & Desktop
-
 Sou um analista de dados apaixonado por transformar dados em insights acionáveis através de aplicações mobile e desktop inovadoras. Especializo-me em criar soluções completas que conectam análise de dados com experiências de usuário intuitivas.
 
 ---
 
 ## Tecnologias & Ferramentas
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,prisma,react,cpp,firebase,jest,git,vscode,md,json" />
@@ -17,7 +14,6 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 ---
 
 ## O que Faço
-
 - **Transformo dados complexos** em aplicações mobile e desktop intuitivas.
 - **Desenvolvo dashboards interativos** para tomada de decisão estratégica.
 - **Crio pipelines de dados** eficientes e escaláveis.
@@ -28,10 +24,29 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 ## Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/EivoldSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EivoldSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&v=2"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivoldSantos&layout=compact&langs_count=7&theme=dracula&locale=pt-br&v=2"/>
-  </a>
+  <!-- Streak Stats — hospedado no streak-stats.demolab.com, muito estável -->
+  <img
+    src="https://streak-stats.demolab.com?user=EivoldSantos&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+    height="180em"
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies — github-profile-trophy, bastante confiável -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=EivoldSantos&theme=dracula&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<p align="center">
+  <!-- Linguagens mais usadas via github-readme-stats com cache busting via &v= -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivoldSantos&layout=compact&langs_count=7&theme=dracula&hide_border=true&locale=pt-br"
+    alt="Top Languages"
+    height="160em"
+  />
 </p>
 
 ---
@@ -39,24 +54,20 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 ## Projetos em Destaque
 
 ### ERP_Mobile
-
 - **Tecnologias**: React Native, Expo, Firebase, TypeScript, Prisma
 - **Descrição**: Aplicativo mobile para controle e visualização de métricas de negócio em tempo real.
 
 ### Plataforma Para Análise Preditiva em Tempo Real
-
 - **Tecnologias**: Python, Streamlit, Pandas, Prophet
 - **Descrição**: Aplicação desktop para análise avançada de dados complexos gerados continuamente para previsões de futuros problemas.
 
 ### Plataforma Para Análise da Bolsa Brasileira
-
 - **Tecnologias**: Python, Streamlit, Pandas, API Restful
 - **Descrição**: Aplicação desktop para análise avançada de dados complexos para tomada de decisões financeiras complexas.
 
 ---
 
 ## Vamos Conectar!
-
 <p align="left">
   <a href="https://www.linkedin.com/in/eivold/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
