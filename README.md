@@ -46,19 +46,6 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EivoldSantos&theme=dracula"
-    alt="Stats Gerais"
-    height="160em"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EivoldSantos&theme=dracula&utcOffset=-3"
-    alt="Horários de Commit"
-    height="160em"
-  />
-</p>
-
 ---
 
 ## Projetos em Destaque
