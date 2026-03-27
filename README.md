@@ -48,21 +48,6 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 
 ---
 
-## Projetos em Destaque
-
-### ERP_Mobile
-- **Tecnologias**: React Native, Expo, Firebase, TypeScript, Prisma
-- **Descrição**: Aplicativo mobile para controle e visualização de métricas de negócio em tempo real.
-
-### Plataforma Para Análise Preditiva em Tempo Real
-- **Tecnologias**: Python, Streamlit, Pandas, Prophet
-- **Descrição**: Aplicação desktop para análise avançada de dados complexos gerados continuamente para previsões de futuros problemas.
-
-### Plataforma Para Análise da Bolsa Brasileira
-- **Tecnologias**: Python, Streamlit, Pandas, API Restful
-- **Descrição**: Aplicação desktop para análise avançada de dados complexos para tomada de decisões financeiras complexas.
-
----
 
 ## Vamos Conectar!
 <p align="left">
