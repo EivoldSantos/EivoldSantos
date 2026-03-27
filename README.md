@@ -24,7 +24,7 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 ## Estatísticas do GitHub
 
 <p align="center">
-  <!-- Streak Stats — hospedado no streak-stats.demolab.com, muito estável -->
+  <!-- Streak Stats — estável e funcionando -->
   <img
     src="https://streak-stats.demolab.com?user=EivoldSantos&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
     alt="GitHub Streak"
@@ -33,18 +33,28 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies — github-profile-trophy, bastante confiável -->
+  <!-- github-profile-summary-cards: mais estável que readme-stats e trophies -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=EivoldSantos&theme=dracula&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EivoldSantos&theme=dracula"
+    alt="Repos por Linguagem"
+    height="160em"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EivoldSantos&theme=dracula"
+    alt="Linguagens por Commit"
+    height="160em"
   />
 </p>
 
 <p align="center">
-  <!-- Linguagens mais usadas via github-readme-stats com cache busting via &v= -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivoldSantos&layout=compact&langs_count=7&theme=dracula&hide_border=true&locale=pt-br"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EivoldSantos&theme=dracula"
+    alt="Stats Gerais"
+    height="160em"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EivoldSantos&theme=dracula&utcOffset=-3"
+    alt="Horários de Commit"
     height="160em"
   />
 </p>
