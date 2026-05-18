@@ -1,6 +1,5 @@
 # Olá! Meu nome é Eivold Santos
 ## Desenvolvedor Mobile & Desktop
----
 
 ## Tecnologias & Ferramentas
 <p align="center">
