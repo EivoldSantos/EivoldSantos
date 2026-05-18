@@ -62,6 +62,4 @@ Sou um analista de dados apaixonado por transformar dados em insights acionávei
   </a>
 </p>
 
-> "Dados são o novo petróleo, mas apenas quando refinados em insights acionáveis através de tecnologia inovadora."
-
 **Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações!**
